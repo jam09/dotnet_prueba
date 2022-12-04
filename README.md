@@ -1,9 +1,9 @@
 # dotnetproyecto
 
-### install axios
+## install axios
 ```
 npm i axios
-
+```
 ## Project setup
 ```
 npm install
